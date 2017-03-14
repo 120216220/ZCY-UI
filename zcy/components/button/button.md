@@ -26,9 +26,9 @@
         <button type="button" class="zcy-btn zcy-btn-primary">Primary</button>
         <button type="button" class="zcy-btn zcy-btn-dashed">dashed</button>
         <button type="button" class="zcy-btn zcy-btn-info">info</button>
-        <button type="button" class="zcy-btn zcy-btn-Success">Success</button>
-        <button type="button" class="zcy-btn zcy-btn-Warning">Warning</button>
-        <button type="button" class="zcy-btn zcy-btn-Danger">Danger</button>
+        <button type="button" class="zcy-btn zcy-btn-success">Success</button>
+        <button type="button" class="zcy-btn zcy-btn-warning">Warning</button>
+        <button type="button" class="zcy-btn zcy-btn-danger">Danger</button>
 </div>
 </template>
 ```
@@ -63,7 +63,7 @@
         <button type="button" class="zcy-btn" disabled>default</button>
         <button type="button" class="zcy-btn zcy-btn-primary" disabled>Primary</button>
         <button type="button" class="zcy-btn zcy-btn-dashed" disabled>dashed</button>
-        <button type="button" class="zcy-btn zcy-btn-Danger" disabled>Danger</button>
+        <button type="button" class="zcy-btn zcy-btn-danger" disabled>Danger</button>
     </div>
 </template>
 ```
